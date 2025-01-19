@@ -4,3 +4,6 @@
 [submodule "ISBI-2024-DiMEDIA-MONAI-Tutorial"]
 	path = ISBI-2024-DiMEDIA-MONAI-Tutorial
 	url = https://github.com/vios-s/ISBI-2024-DiMEDIA-MONAI-Tutorial.git
+[submodule "fastapi-plotly-dash"]
+	path = fastapi-plotly-dash
+	url = https://github.com/rusnyder/fastapi-plotly-dash.git
