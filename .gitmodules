@@ -16,3 +16,6 @@
 [submodule "medical-imaging/mids"]
 	path = medical-imaging/mids
 	url = https://github.com/jomasator2/MIDS.git
+[submodule "conference-tutorials/federated-learning"]
+	path = conference-tutorials/federated-learning
+	url = https://github.com/CollaborativeFederatedLearningTutorials/website.git
