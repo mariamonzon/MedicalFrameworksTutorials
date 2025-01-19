@@ -7,3 +7,12 @@
 [submodule "fastapi-plotly-dash"]
 	path = fastapi-plotly-dash
 	url = https://github.com/rusnyder/fastapi-plotly-dash.git
+[submodule "medical-imaging/mriqc"]
+	path = medical-imaging/mriqc
+	url = https://github.com/nipreps/mriqc.git
+[submodule "medical-imaging/tiger"]
+	path = medical-imaging/tiger
+	url = https://github.com/DIAGNijmegen/Tiger.git
+[submodule "medical-imaging/mids"]
+	path = medical-imaging/mids
+	url = https://github.com/jomasator2/MIDS.git
