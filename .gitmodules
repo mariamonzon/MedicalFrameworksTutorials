@@ -1,0 +1,6 @@
+[submodule "generative_chestxray"]
+	path = generative_chestxray
+	url = https://github.com/Warvito/generative_chestxray.git
+[submodule "ISBI-2024-DiMEDIA-MONAI-Tutorial"]
+	path = ISBI-2024-DiMEDIA-MONAI-Tutorial
+	url = https://github.com/vios-s/ISBI-2024-DiMEDIA-MONAI-Tutorial.git
