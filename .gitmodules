@@ -1,8 +1,8 @@
 [submodule "generative_chestxray"]
-	path = generative_chestxray
+	path = conference-turorials/generative_chestxray
 	url = https://github.com/Warvito/generative_chestxray.git
 [submodule "ISBI-2024-DiMEDIA-MONAI-Tutorial"]
-	path = ISBI-2024-DiMEDIA-MONAI-Tutorial
+	path = conference-turorials/ISBI-2024-DiMEDIA-MONAI-Tutorial
 	url = https://github.com/vios-s/ISBI-2024-DiMEDIA-MONAI-Tutorial.git
 [submodule "fastapi-plotly-dash"]
 	path = fastapi-plotly-dash
